@@ -31,7 +31,8 @@ The server executed the injected command and returned the result (carlos), confi
 **🧬 Step 4: Exploring the File System**
 I discovered a file named morale.txt in the server’s directory. This indicated that I could potentially read or manipulate server-side files.
 
-<img width="834" height="727" alt="Screenshot 2025-10-12 165541" src="https://github.com/user-attachments/assets/6fbcaf61-4b32-4e48-86d0-20d516e575ae" />
+<img width="834" height="727" alt="image" src="https://github.com/user-attachments/assets/8ef20e3c-04cc-43d2-a88c-b4f7d829c5aa" />
+
 
 <img width="833" height="724" alt="Screenshot 2025-10-12 165624" src="https://github.com/user-attachments/assets/88d3046b-4e35-43e7-9b4c-716ba964d08c" />
 
