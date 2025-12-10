@@ -16,7 +16,8 @@ I began by analyzing the application’s behavior when submitting messages. I ch
 **🧪 Step 2: Testing for Template Injection**
 I crafted a payload using JSP-style syntax to test for server-side code execution. The goal was to determine if the server was vulnerable to SSTI.
 
-<img width="833" height="724" alt="image" src="https://github.com/user-attachments/assets/3696d437-5ae0-4f47-98e6-e7be8e3ace4c" />
+<img width="833" height="724" alt="image" src="https://github.com/user-attachments/assets/d5b0aa6b-0db9-49f7-a985-6e99fb038a8a" />
+
 
 
 <img width="380" height="65" alt="image" src="https://github.com/user-attachments/assets/287a2b22-0753-4d2a-ade9-42c1a72ef908" />
