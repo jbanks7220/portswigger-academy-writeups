@@ -50,7 +50,8 @@ stockApi=http://localhost/admin/delete?username=carlos
 
 The server should respond with a success message, confirming that the SSRF was successful and the internal admin endpoint was triggered. In my case, this lab was already completed so instead it returned a "302 Found" status code, meaning that carlos had been temporarily removed.
 
-<img width="498" height="254" alt="Screenshot 2025-10-14 125011" src="https://github.com/user-attachments/assets/b1805acd-0dab-4eca-831e-0e19fce541f4" />
+<img width="498" height="254" alt="image" src="https://github.com/user-attachments/assets/cf75b4a5-6a3e-4254-a0a4-cc9a7e71455c" />
+
 
 ### 🏁 Step 6: Lab Completion
 
