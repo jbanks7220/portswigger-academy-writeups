@@ -38,7 +38,8 @@ I discovered a file named morale.txt in the server’s directory. This indicated
 <img width="833" height="724" alt="image" src="https://github.com/user-attachments/assets/913010ca-32c9-4d83-b19a-c1d771483da6" />
 
 
-<img width="413" height="170" alt="Screenshot 2025-10-12 165639" src="https://github.com/user-attachments/assets/0e78d298-d0a4-4d25-9dea-b6468a8bdbce" />
+<img width="462" height="72" alt="image" src="https://github.com/user-attachments/assets/5724de79-610b-42d0-804f-daf878cf66ca" />
+
 
 **🎯 Step 5: Attempting File Deletion**
 I sent a payload to delete the morale.txt file using a Unix command. The server accepted and executed the command, demonstrating the severity of the vulnerability.
