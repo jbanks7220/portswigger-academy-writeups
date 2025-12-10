@@ -19,7 +19,8 @@ I crafted a payload using JSP-style syntax to test for server-side code executio
 <img width="833" height="724" alt="image" src="https://github.com/user-attachments/assets/3696d437-5ae0-4f47-98e6-e7be8e3ace4c" />
 
 
-<img width="380" height="65" alt="Screenshot 2025-10-12 164439" src="https://github.com/user-attachments/assets/84e7d1ee-d0ab-4a62-a2ff-d3862dd426da" />
+<img width="380" height="65" alt="image" src="https://github.com/user-attachments/assets/287a2b22-0753-4d2a-ade9-42c1a72ef908" />
+
 
 **🚨 Step 3: Executing the Payload**
 The server executed the injected command and returned the result (carlos), confirming that the template engine was evaluating user input as code.
