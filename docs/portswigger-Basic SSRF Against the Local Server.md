@@ -22,7 +22,8 @@ I intercepted the request and found the stockApi parameter pointing to an extern
 stockApi=http://stock.weliketoshop.net:8080/product/stock/&productId=2&storeId=1
 ```
 
-<img width="829" height="725" alt="Screenshot 2025-10-12 172247" src="https://github.com/user-attachments/assets/f3fc2933-8cd4-4fdf-92af-c6dfb9a86cd3" />
+<img width="829" height="725" alt="image" src="https://github.com/user-attachments/assets/4bdd69ab-2697-4d24-839e-c782821e52a1" />
+
 
 This indicated that the server was making a request to the URL provided—classic SSRF behavior.
 
