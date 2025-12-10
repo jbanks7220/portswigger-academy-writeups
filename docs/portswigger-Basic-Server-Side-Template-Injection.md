@@ -35,7 +35,8 @@ I discovered a file named morale.txt in the server’s directory. This indicated
 <img width="834" height="727" alt="image" src="https://github.com/user-attachments/assets/8ef20e3c-04cc-43d2-a88c-b4f7d829c5aa" />
 
 
-<img width="833" height="724" alt="Screenshot 2025-10-12 165624" src="https://github.com/user-attachments/assets/88d3046b-4e35-43e7-9b4c-716ba964d08c" />
+<img width="833" height="724" alt="image" src="https://github.com/user-attachments/assets/913010ca-32c9-4d83-b19a-c1d771483da6" />
+
 
 <img width="413" height="170" alt="Screenshot 2025-10-12 165639" src="https://github.com/user-attachments/assets/0e78d298-d0a4-4d25-9dea-b6468a8bdbce" />
 
