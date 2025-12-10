@@ -15,7 +15,8 @@ I began by analyzing the product page, which included a dropdown for store locat
 
 I intercepted the request and found the stockApi parameter pointing to an external service:
 
-<img width="830" height="336" alt="Screenshot 2025-10-12 172217" src="https://github.com/user-attachments/assets/cb1ff381-6759-4a01-8202-4e8403745873" />
+<img width="830" height="336" alt="image" src="https://github.com/user-attachments/assets/e32ad4b6-96b1-4cbc-b26e-dfeaea4acf57" />
+
 
 ```
 stockApi=http://stock.weliketoshop.net:8080/product/stock/&productId=2&storeId=1
