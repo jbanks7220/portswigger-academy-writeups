@@ -31,7 +31,8 @@ This indicated that the server was making a request to the URL provided—classi
 
 I changed the stockApi parameter to point to http://localhost/admin, attempting to access internal services not exposed to the public.
 
-<img width="487" height="507" alt="Screenshot 2025-10-12 172328" src="https://github.com/user-attachments/assets/b8e55c72-9c6f-4cc0-bf99-2bf142940881" />
+<img width="487" height="507" alt="image" src="https://github.com/user-attachments/assets/47de5038-2527-4600-81e8-005327a1716f" />
+
 
 <img width="842" height="722" alt="Screenshot 2025-10-12 172457" src="https://github.com/user-attachments/assets/534d83bd-4e98-421f-8815-09c739e2fc1a" />
 
