@@ -25,7 +25,8 @@ I crafted a payload using JSP-style syntax to test for server-side code executio
 **🚨 Step 3: Executing the Payload**
 The server executed the injected command and returned the result (carlos), confirming that the template engine was evaluating user input as code.
 
-<img width="835" height="721" alt="Screenshot 2025-10-12 165130" src="https://github.com/user-attachments/assets/e10a0f43-0654-405c-88d0-44a57c81716f" />
+<img width="835" height="721" alt="image" src="https://github.com/user-attachments/assets/c3074972-a56a-471d-adae-c6a3efe54558" />
+
 
 **🧬 Step 4: Exploring the File System**
 I discovered a file named morale.txt in the server’s directory. This indicated that I could potentially read or manipulate server-side files.
