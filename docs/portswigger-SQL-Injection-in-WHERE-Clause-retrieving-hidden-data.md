@@ -29,7 +29,8 @@ I used the classic ' OR 1=1-- payload to bypass the WHERE clause condition. This
 
 The lab confirmed that the injection worked and hidden product categories were revealed. Mission accomplished.
 
-<img width="751" height="429" alt="Screenshot 2025-10-07 135138" src="https://github.com/user-attachments/assets/3072e560-4c65-447d-9a1a-47bd96f36e4c" />
+<img width="751" height="429" alt="image" src="https://github.com/user-attachments/assets/a0430850-8038-41e8-b8ab-f54b1d555370" />
+
 
 ### 🧠 Key Takeaways
 SQL injection can expose hidden or unauthorized data.
