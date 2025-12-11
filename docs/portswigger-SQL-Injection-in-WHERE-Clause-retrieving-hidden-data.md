@@ -22,7 +22,7 @@ Injecting a single quote (') caused a server error, confirming that the input wa
 
 I used the classic ' OR 1=1-- payload to bypass the WHERE clause condition. This forced the query to return all rows, including hidden data.
 
-<img width="631" height="121" alt="Screenshot 2025-10-07 135138v2" src="https://github.com/user-attachments/assets/2fc9016e-a349-4d21-b3d8-3f6044b11a4c" />
+<img width="999" height="190" alt="image" src="https://github.com/user-attachments/assets/653cc65f-01b7-402e-8047-6b3f10fe2b80" />
 
 
 **✅ Step 4: Successful Exploitation**
