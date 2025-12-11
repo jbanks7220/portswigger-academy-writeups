@@ -18,9 +18,11 @@ Burp Suite's HTTP history is showing a POST to /product/stock Using Burp Suite, 
 https://stock.weliketoshop.net:443/product/stock/check?productId=1&storeId=1
 ```
 
-<img width="818" height="397" alt="Screenshot 2025-10-12 174200" src="https://github.com/user-attachments/assets/e8a04214-659f-4502-aacc-0e624e7e404c" />
+<img width="818" height="397" alt="image" src="https://github.com/user-attachments/assets/c78ccabe-69f8-4262-9b6e-39a9e2df1fd7" />
 
-<img width="488" height="500" alt="Screenshot 2025-10-12 174224" src="https://github.com/user-attachments/assets/85771703-686a-4618-974f-a7d8e924f8a8" />
+
+<img width="488" height="500" alt="image" src="https://github.com/user-attachments/assets/f764a1be-395c-4fb7-90d5-6c3004c80e77" />
+
 
 This confirmed that the server was making outbound requests based on user input.
 
@@ -44,14 +46,16 @@ Encoded payloads like:
 http%3A%2F%2F127.1%2Fadmin
 ```
 
-<img width="488" height="500" alt="Screenshot 2025-10-12 174710" src="https://github.com/user-attachments/assets/5897dfd9-eebc-4bed-a6df-b4248177ce6c" />
+<img width="488" height="500" alt="image" src="https://github.com/user-attachments/assets/b8d1a2f5-2e02-467f-9a40-9439e3f17cdb" />
+
 
 and
 ```
 http://127.1%2F%2561dmin
 ```
 
-<img width="796" height="425" alt="Screenshot 2025-10-12 180400" src="https://github.com/user-attachments/assets/08999027-6963-4c92-ba47-44a591f96dfe" />
+<img width="796" height="425" alt="image" src="https://github.com/user-attachments/assets/2d56eee1-d72a-4a4c-80d5-c33c246cc3c0" />
+
 
 I used techniques like:
 
@@ -68,7 +72,8 @@ POST request to:
 stockApi=http://127.1/admin/delete?username=carlos
 ```
 
-<img width="785" height="480" alt="Screenshot 2025-10-12 181548" src="https://github.com/user-attachments/assets/385b3d1e-5b9b-4b89-ad79-3acd2556d553" />
+<img width="785" height="480" alt="image" src="https://github.com/user-attachments/assets/47c5ad87-a6b4-41ed-b962-7add93c9ee17" />
+
 
 This SSRF payload successfully reached the internal admin panel and triggered the deletion of the user carlos.
 
@@ -76,7 +81,8 @@ This SSRF payload successfully reached the internal admin panel and triggered th
 
 The lab confirmed successful exploitation and marked the challenge as complete.
 
-<img width="1782" height="787" alt="Screenshot 2025-10-12 181611" src="https://github.com/user-attachments/assets/e2d8d907-c15f-4e94-8513-63a8ddffb7c1" />
+<img width="1782" height="787" alt="image" src="https://github.com/user-attachments/assets/5ea21a09-4bcb-4bbb-a0ed-ed0c29a0b1c3" />
+
 
 ### 🧠 Key Takeaways
 Blacklists are weak defenses against SSRF; attackers can use encoding tricks and alternate IP formats.
