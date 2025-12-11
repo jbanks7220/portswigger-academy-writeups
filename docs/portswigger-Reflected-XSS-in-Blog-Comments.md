@@ -12,7 +12,8 @@ I began by inspecting the blog's comment form. The presence of multiple input fi
 **🧪 Step 2: Crafting the XSS Payload**
 I injected a basic JavaScript payload into the comment field. This payload is designed to trigger a browser alert if the input is rendered without proper sanitization.
 
-<img width="763" height="616" alt="Screenshot 2025-10-07 141813" src="https://github.com/user-attachments/assets/6e263895-a03e-463c-a8e1-5e835f116af2" />
+<img width="763" height="616" alt="image" src="https://github.com/user-attachments/assets/94b753d1-8bf0-45bc-b931-3551230be5c7" />
+
 
 **🚨 Step 3: Submitting the Malicious Comment**
 
