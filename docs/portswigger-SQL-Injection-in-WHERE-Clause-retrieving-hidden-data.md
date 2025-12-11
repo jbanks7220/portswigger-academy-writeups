@@ -9,7 +9,7 @@ Retrieve hidden data from a database.
 
 I began by analyzing the URL structure and noticed the category parameter was passed directly to the backend. This hinted at a potential injection point.
 
-<img width="931" height="869" alt="Screenshot 2025-10-07 135039" src="https://github.com/user-attachments/assets/3f9085a6-e994-49fe-9b84-75dc17d6f27c" />
+<img width="931" height="869" alt="image" src="https://github.com/user-attachments/assets/53a0e44d-6321-47f3-ba46-7bbe545fbea4" />
 
 **🧪 Step 2: Testing for SQL Injection**
 
