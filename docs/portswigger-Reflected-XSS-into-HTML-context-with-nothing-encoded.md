@@ -5,7 +5,8 @@ Demonstrate how reflected XSS vulnerabilities can be exploited to execute arbitr
 **🔍 Step 1: Identifying the Injection Point**
 I began by analyzing the search functionality. The input was reflected directly into the HTML response, suggesting a potential reflected XSS vulnerability.
 
-<img width="1820" height="882" alt="Screenshot 2025-10-09 100759" src="https://github.com/user-attachments/assets/ca719d9e-d5bc-4719-9977-eb86a007eca0" />
+<img width="1820" height="882" alt="image" src="https://github.com/user-attachments/assets/8161fedb-df40-4fff-be25-3f9b09287c3e" />
+
 
 **🧪 Step 2: Crafting the Payload**
 I injected a basic script tag into the search field. The payload was embedded in the URL and reflected back into the page without encoding.
