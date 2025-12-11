@@ -23,7 +23,8 @@ After submitting the form, the payload was reflected back into the page and exec
 **✅ Step 4: Payload Execution**
 Screenshot Reference: Pop-up dialog with domain and number The alert box appeared, proving that the script was executed in the browser context. This validated the presence of a reflected XSS vulnerability.
 
-<img width="604" height="255" alt="Screenshot 2025-10-07 141841" src="https://github.com/user-attachments/assets/0c7b6547-bc36-42b1-9a14-ef6954d96097" />
+<img width="604" height="255" alt="image" src="https://github.com/user-attachments/assets/0ca3d2b7-277a-41a3-88fd-96b7888b1102" />
+
 
 **🎉 Step 5: Lab Completion**
 
