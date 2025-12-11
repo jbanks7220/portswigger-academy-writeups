@@ -49,7 +49,8 @@ This instructs the server to interpret .exploit files in the directory as PHP sc
 
 <img width="863" height="654" alt="image" src="https://github.com/user-attachments/assets/62fef3c6-8dc2-412a-8048-05b78fa1672d" />
 
-<img width="859" height="641" alt="Screenshot 2025-10-07 125924" src="https://github.com/user-attachments/assets/739cf87f-5c9b-4f7a-bb90-ce7109553ed5" />
+<img width="859" height="641" alt="image" src="https://github.com/user-attachments/assets/a82af232-4196-4a7a-ab31-2c31d4fd42ac" />
+
 
 **🧠 Step 5: Uploading the Web Shell as shrek.exploit**
 
