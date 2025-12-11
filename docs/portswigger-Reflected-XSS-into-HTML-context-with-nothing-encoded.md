@@ -16,7 +16,8 @@ I injected a basic script tag into the search field. The payload was embedded in
 **🚨 Step 3: Executing the Payload**
 Upon submitting the search, the browser executed the script, confirming the vulnerability.
 
-<img width="1835" height="857" alt="Screenshot 2025-10-09 101050" src="https://github.com/user-attachments/assets/c2e92e61-51e7-4c25-a863-e46d8d6a4ebd" />
+<img width="1835" height="857" alt="image" src="https://github.com/user-attachments/assets/589ba099-d511-46be-85a3-445c2f0c5e42" />
+
 
 **✅ Step 4: Lab Completion**
 The lab validated the successful exploitation of reflected XSS.
