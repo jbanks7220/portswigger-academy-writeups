@@ -15,7 +15,8 @@ I began by analyzing the URL structure and noticed the category parameter was pa
 
 Injecting a single quote (') caused a server error, confirming that the input was being processed by a SQL query.
 
-<img width="621" height="170" alt="Screenshot 2025-10-07 135115" src="https://github.com/user-attachments/assets/a710ba51-f17a-4e40-848d-eeb059f74801" />
+<img width="621" height="170" alt="image" src="https://github.com/user-attachments/assets/c09ba6e7-f4be-4ea6-aa18-97437ffcfd66" />
+
 
 **🧬 Step 3: Crafting the Payload**
 
